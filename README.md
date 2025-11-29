@@ -7,16 +7,28 @@ Welcome to **Crypto Tracker**, a modern application for real-time cryptocurrency
 Here is a preview of the application.
 
 ### Home Page
-![Home Page](https://via.placeholder.com/800x450?text=Home+Page+Screenshot)
+<img width="1728" height="964" alt="image" src="https://github.com/user-attachments/assets/34ae23ee-55a4-4039-94e0-ba676415af1e" />
+
 *Market overview with trending cryptocurrencies.*
 
 ### Coin Details
-![Coin Details](https://via.placeholder.com/800x450?text=Coin+Details+Screenshot)
+<img width="1728" height="964" alt="image" src="https://github.com/user-attachments/assets/aac77688-5a4e-4afc-a8bc-14f5e6a0c7d2" />
+
+
 *Interactive charts and detailed information for each cryptocurrency.*
 
 ### Watchlist
-![Watchlist](https://via.placeholder.com/800x450?text=Watchlist+Screenshot)
+<img width="1728" height="961" alt="image" src="https://github.com/user-attachments/assets/dba7b23c-5058-4038-84a7-3ab970094844" />
+
 *Your personalized list of favorite coins.*
+
+### Exchanges
+<img width="1728" height="959" alt="image" src="https://github.com/user-attachments/assets/5240e092-4dc6-44af-bc0c-593caa4c3ce0" />
+
+### Register
+<img width="1728" height="962" alt="image" src="https://github.com/user-attachments/assets/77a84073-21b9-45b4-a9db-79897aa979d1" />
+
+
 
 ---
 
